@@ -2,8 +2,6 @@
 
 This Python program automatically searches for **"Car Cover"** listings on [OLX India](https://www.olx.in/items/q-car-cover), extracts the search results (title, price and location), and saves them into a **CSV file**.
 
-> Saves results in `search_results.csv` for easy viewing.
-
 ---
 
 ## 🔥 Features
@@ -25,3 +23,4 @@ This Python program automatically searches for **"Car Cover"** listings on [OLX 
 
   * `requests`
   * `beautifulsoup4`
+---
